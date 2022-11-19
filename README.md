@@ -76,7 +76,7 @@ Prerequisites For Running The Project Locally:
 To clone this repository run:
 
 ```sh
-$ git clone https://github.com/alii13/examination-management-system.git
+$ git clone https://github.com/chhavigupta10/examination-management-system.git
 ```
 
 Head inside the cloned folder and install the dependencies using NPM
